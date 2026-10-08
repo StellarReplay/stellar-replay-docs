@@ -6,6 +6,8 @@ Extended documentation for [Stellar Replay](https://github.com/StellarReplay/ste
 
 The core repository remains the source of truth for executable behavior, CLI flags, fixture schema, replay semantics, security boundaries, and release binaries. This repository owns depth: tutorials, integration guides, conceptual explanations, navigation, and cross-repository documentation. It must link to core documentation rather than silently redefining it.
 
+The frozen v0.1 method and network boundary is documented in the core [Phase 1 decision record](https://github.com/StellarReplay/stellar-replay/blob/main/docs/PHASE_1_DECISION.md). Future guides must target that record and the released core version they describe.
+
 ## Planned structure
 
 ```text
