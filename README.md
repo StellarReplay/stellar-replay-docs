@@ -1,4 +1,21 @@
-# Stellar Replay Documentation
+<p align="center">
+  <img src="assets/stellar-replay-docs-mark.svg" alt="Stellar Replay Docs" width="320" />
+</p>
+
+<p align="center"><strong>Guides, concepts, and integration material for Stellar Replay.</strong></p>
+
+<p align="center">
+  <a href="https://github.com/StellarReplay/stellar-replay-docs/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/StellarReplay/stellar-replay-docs/ci.yml/Docs%20CI?branch=main&label=CI" alt="Docs CI status" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-Apache--2.0-4F8CFF" alt="Apache-2.0 license" /></a>
+  <a href="https://github.com/StellarReplay/stellar-replay/releases/tag/v0.1.0"><img src="https://img.shields.io/badge/core-v0.1.0-5BE7C4" alt="Core v0.1.0" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/StellarReplay/stellar-replay">Core product</a> ·
+  <a href="#ownership-boundary">Ownership</a> ·
+  <a href="docs/README.md">Documentation map</a> ·
+  <a href="CONTRIBUTING.md">Contributing</a>
+</p>
 
 Extended documentation for [Stellar Replay](https://github.com/StellarReplay/stellar-replay), a deterministic capture-and-replay toolkit for Stellar RPC interactions.
 
@@ -30,4 +47,3 @@ The core behavior is now real and released as v0.1.0. This repository remains
 pre-release: its next justified work is a small, versioned set of adoption
 guides and integration documentation, followed by a framework decision only if
 content volume and contributor workflow require one.
-
