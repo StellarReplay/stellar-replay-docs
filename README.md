@@ -8,7 +8,7 @@ The core repository remains the source of truth for executable behavior, CLI fla
 
 The frozen v0.1 method and network boundary is documented in the core [Phase 1 decision record](https://github.com/StellarReplay/stellar-replay/blob/main/docs/PHASE_1_DECISION.md). Future guides must target that record and the released core version they describe.
 
-## Planned structure
+## Initial structure
 
 ```text
 docs/
@@ -26,5 +26,8 @@ Documentation identifies the core release or branch it describes. Changes to fix
 
 ## Status
 
-Foundation only. Guides and site content will be added after the core behavior becomes real.
+The core behavior is now real and released as v0.1.0. This repository remains
+pre-release: its next justified work is a small, versioned set of adoption
+guides and integration documentation, followed by a framework decision only if
+content volume and contributor workflow require one.
 
