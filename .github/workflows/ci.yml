@@ -14,5 +14,6 @@ jobs:
       - uses: actions/checkout@v5
       - name: Check documentation foundation
         shell: bash
-        run: test -s README.md && test -s docs/README.md
-
+        run: test -s README.md && test -s docs/README.md && test -s LICENSE
+      - name: Check Markdown and local links
+        run: python3 tests/check_markdown.py
