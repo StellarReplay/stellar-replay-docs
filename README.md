@@ -44,6 +44,6 @@ Documentation identifies the core release or branch it describes. Changes to fix
 ## Status
 
 The core behavior is now real and released as v0.1.0. This repository remains
-pre-release: its next justified work is a small, versioned set of adoption
+early product: its next justified work is a small, versioned set of adoption
 guides and integration documentation, followed by a framework decision only if
 content volume and contributor workflow require one.
