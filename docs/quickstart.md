@@ -1,7 +1,10 @@
 # Ten-minute offline quickstart
 
-This walkthrough uses the released `stellar-replay` v0.1.0 CLI and a checked-in
-fixture. It does not require a wallet, credential, or live RPC endpoint.
+This walkthrough uses the released `stellar-replay` v0.1.0 CLI and the core
+repository's checked-in fixture. Run the commands from a
+[`stellar-replay`](https://github.com/StellarReplay/stellar-replay) checkout, or
+replace the path with a reviewed fixture of your own. It does not require a
+wallet, credential, or live RPC endpoint.
 
 ## 1. Obtain the core
 
