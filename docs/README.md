@@ -5,7 +5,7 @@
 - `concepts/` — capture, fixtures, matching, and trust model
 - `releases/` — compatibility and release notes
 - `quickstart.md` — ten-minute offline walkthrough
-- `github-action.md` — untagged released-core Action integration
+- `github-action.md` — versioned released-core Action integration
 
 Core behavior links back to `StellarReplay/stellar-replay`. The docs repository does not define a competing fixture schema.
 
