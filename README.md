@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/StellarReplay/stellar-replay-docs/actions/workflows/ci.yml"><img src="https://github.com/StellarReplay/stellar-replay-docs/actions/workflows/ci.yml/badge.svg?branch=main" alt="Docs CI status" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-Apache--2.0-4F8CFF" alt="Apache-2.0 license" /></a>
-  <a href="https://github.com/StellarReplay/stellar-replay/releases/tag/v0.1.0"><img src="https://img.shields.io/badge/core-v0.1.0-5BE7C4" alt="Core v0.1.0" /></a>
+  <a href="https://github.com/StellarReplay/stellar-replay/releases/tag/v0.1.1"><img src="https://img.shields.io/badge/core-v0.1.1-5BE7C4" alt="Core v0.1.1" /></a>
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@ Documentation identifies the core release or branch it describes. Changes to fix
 
 ## Status
 
-The core behavior is now real and released as v0.1.0. This repository remains
+The core behavior is now real and released as v0.1.1. This repository remains
 early product: its next justified work is a small, versioned set of adoption
 guides and integration documentation, followed by a framework decision only if
 content volume and contributor workflow require one.
