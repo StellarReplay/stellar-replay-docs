@@ -2,7 +2,8 @@
 
 ## Unreleased
 
-No unreleased changes.
+- Added navigation to the core conformance matrix, compatibility/deprecation
+  policy, and fixture provenance guidance.
 
 ## 2026-10-20
 

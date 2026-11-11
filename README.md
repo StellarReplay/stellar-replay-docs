@@ -17,7 +17,7 @@
   <a href="CONTRIBUTING.md">Contributing</a>
 </p>
 
-Extended documentation for [Stellar Replay](https://github.com/StellarReplay/stellar-replay), a deterministic capture-and-replay toolkit for Stellar RPC interactions. Start with the [ten-minute offline quickstart](docs/quickstart.md) or the [GitHub Action guide](docs/github-action.md).
+Extended documentation for [Stellar Replay](https://github.com/StellarReplay/stellar-replay), a deterministic capture-and-replay toolkit for Stellar RPC interactions. Start with the [ten-minute offline quickstart](docs/quickstart.md), the [GitHub Action guide](docs/github-action.md), or the [conformance and compatibility guide](docs/conformance.md).
 
 ## Ownership boundary
 
