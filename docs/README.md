@@ -6,6 +6,7 @@
 - `releases/` — compatibility and release notes
 - `quickstart.md` — ten-minute offline walkthrough
 - `github-action.md` — versioned released-core Action integration
+- `conformance.md` — links to the core conformance, compatibility, and provenance policy
 
 Core behavior links back to `StellarReplay/stellar-replay`. The docs repository does not define a competing fixture schema.
 
